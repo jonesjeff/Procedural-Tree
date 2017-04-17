@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 16fed1505f375e943b42f52483cd8e69
+timeCreated: 1492316270
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 80
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Perfect Wave
+  fontNames:
+  - The Perfect Wave
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
